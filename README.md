@@ -1,1 +1,1 @@
-# dotfiles
+# NVIM / Terminal Config's
