@@ -1,6 +1,4 @@
-# Prompt this is the real one! :)
-# oh-my-posh init pwsh --config 'C:/Users/Russell/Documents/PowerShell/myprofile.omp.json' | Invoke-Expression
-
+# Russell's PowerShell Config
 oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/M365Princess.omp.json' | Invoke-Expression
 
 # Functions
